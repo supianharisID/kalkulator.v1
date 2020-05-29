@@ -10,7 +10,7 @@ print('''\033[94m
             (__)\       )\/
                 ||----w |
                 ||     ||
-                Coded By : Riss.ID
+                Coded By : SupianHaris.ID
                 Thnks    : #Sky.ID And You :D 
 ====================================
 ''')
