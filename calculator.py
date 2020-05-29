@@ -78,4 +78,5 @@ elif select in ['5','05']:
 if select in ['6','06']:
     keluar()
 else:
-    print('404 Not Found !')
+    print('===============')
+
